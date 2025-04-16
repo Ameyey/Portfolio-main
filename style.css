@@ -134,7 +134,7 @@ img {
     width: 80%;
     height: 100%;
     padding: 2rem;
-    background-color: var(--second-color);
+    background-color:#ffffff;
     transition: 0.5s;
   }
 }
@@ -783,3 +783,4 @@ body.dark-mode #darkModeToggle {
   font-size: 2rem;
   font-weight: bold;
 }
+
