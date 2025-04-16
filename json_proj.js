@@ -8,7 +8,7 @@ const cardData = [
   {
     title: "Employee Mangement System",
     description: "🎯 Project Objective To build a responsive and dynamic Employee Management System where users (e.g., HR or Admin) can add, view, edit, and delete employee records. This project helps in understanding React fundamentals, form handling, and component reusability while using Vite for fast and modern development.",
-    Features:"➕ Add Employee – Form to input employee details (name, role, email, etc.) 📋 Employee List – Displays a table/grid of all employees 🛠️ Edit Employee – Update existing employee data ❌ Delete Employee – Remove an employee from the system 🔍 Search/Filter – Filter employee list by name, role, etc. (optional) ✅ Form Validation – Prevent incomplete form submission 💾 Data Persistence – Store data using LocalStorage / mock API",
+    Features:"➕ Add Employee – Form to input employee details (name, role, email, etc.)  📋 Employee List – Displays a table/grid of all employees 🛠️ Edit Employee – Update existing employee data ❌ Delete Employee – Remove an employee from the system 🔍 Search/Filter – Filter employee list by name, role, etc. (optional) ✅ Form Validation – Prevent incomplete form submission 💾 Data Persistence – Store data using LocalStorage / mock API",
     image: "./assets/employee mangement system.png"
   }
   

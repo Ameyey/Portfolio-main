@@ -305,13 +305,19 @@ img {
   width: 85%;
 }
 .skills__js {
-  width: 65%;
+  width: 95%;
 }
 .skills__ux {
   width: 85%;
 }
 .skills__img {
   border-radius: 0.5rem;
+}
+.skills__React {
+  width:  65%;
+}
+.skills__MongoDB{
+  width: 65%;
 }
 
 /* ===== WORK =====*/
