@@ -27,7 +27,6 @@ cardData.forEach(card => {
      <p class="card-description">${card.description}</p>
      <p>🧩 Features Implemented</p>
      <p class="card-Features">${card.Features}</p>
-      
     </div>
   `;
   container.appendChild(cardElement);
