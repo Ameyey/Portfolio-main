@@ -4,7 +4,7 @@ const cardData = [
     description: "🎯 Project Objective  To create a visually appealing and responsive clone of the Netflix landing page with basic interactive features using core web development technologies – HTML, CSS, and JavaScript. The goal is to practice frontend skills and understand UI/UX patterns used by leading streaming platforms.",
     Features:` 🎬 Hero Section with background image and CTA buttons 🔍 Navigation Bar similar to Netflix with logo, links, and user icon 🎞️ Movie Slider/Carousel (Static or Scrollable) 📱 Fully Responsive Design for all screen sizes 🌓 Dark Theme UI mimicking the Netflix color palette ✨ Hover Effects & Smooth Transitions 🧪 Basic Modal Popup for Play or More Info actions (Optional)`,
     image: "./assets/Netflix.png"   ,
-    link:'https://netfix-clone-taupe.vercel.app/'
+    link:'https://netfix-clone-git-main-ameys-projects-ec2c0e92.vercel.app/'
     
   },
   {
